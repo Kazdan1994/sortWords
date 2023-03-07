@@ -1,0 +1,16 @@
+{
+  "name": "sort-tab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "vitest": "^0.29.2"
+  }
+}
